@@ -80,7 +80,7 @@ export default function LoginPage() {
             </div>
           </div>
             <div className="flex justify-center mt-[37px] font-semibold text-[16px] text-white">
-              아직 HoilJoil의 가족이 아니신가요?
+              아직 HoliJoli의 가족이 아니신가요?
                 <div className="hover:cursor text-red-500 ml-[10px]">
                   <Link to="/SignUpPage">회원가입</Link>
                 </div>

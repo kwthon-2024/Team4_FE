@@ -13,7 +13,7 @@ function SignUpPage() {
           <div className="h-full">
             <div className="w-[512px] h-[112px]">
               <span className="block text-[44px] text-[#FFE603] font-bold">회원가입</span>
-              <span className="block text-white mt-[16px]">만나서 반가워요, 우리는 HoilJoil 가족이에요</span>
+              <span className="block text-white mt-[16px]">만나서 반가워요, 우리는 HoliJoli 가족이에요</span>
             </div>
 
             {/* 입력 폼 */}
