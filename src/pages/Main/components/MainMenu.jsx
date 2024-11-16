@@ -29,7 +29,7 @@ export default function MainMenu() {
         <div className="text-white no-underline">|</div>
         <div className="text-white hover:text-gray-200 no-underline cursor-pointer">전체 상품 보기</div>
         <div className="text-white hover:text-gray-200 no-underline cursor-pointer">
-          <span className="font-pacifico">Joil</span> Pick
+          <span className="font-pacifico">Joli</span> Pick
         </div>
         <div className="text-white hover:text-gray-200 no-underline cursor-pointer">모바일 상품권</div>
         <div className="text-white hover:text-gray-200 no-underline cursor-pointer">선물하기</div>

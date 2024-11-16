@@ -21,7 +21,7 @@ export default function Footer() {
             개인정보처리방침 <span className="text-white"> | </span> 이용약관
           </span>
           <span span className="font-bold text-white">
-            (주)더포터마켓 대표 : 손예지 <span className="text-[#C8C6C6]"> | </span>
+            (주)홀리졸리마켓 대표 : 손예지 <span className="text-[#C8C6C6]"> | </span>
             TEL: 02-0929-1234<span className="text-white"> | </span> hoiljoil@kw.ac.kr
           </span>
           <span span className="font-bold text-white">

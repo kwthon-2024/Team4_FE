@@ -38,10 +38,10 @@ const Detail = () => {
                 <strong className="text-[#FFE603]">일반배송</strong>
                 <p>2,500원 (20,000원 이상 무료배송)</p>
 
-                <strong className="text-[#FFE603]">더포터마켓 배송</strong>
+                <strong className="text-[#FFE603]">홀리졸리마켓 배송</strong>
                 <p>평균 5일 이내 배송</p>
 
-                <strong className="text-[#FFE603]">포터드림</strong>
+                <strong className="text-[#FFE603]">홀리졸리드림</strong>
                 <p>2,500원 또는 5,000원</p>
 
                 <strong className="text-[#FFE603]">픽업</strong>
