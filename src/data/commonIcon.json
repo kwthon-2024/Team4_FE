@@ -1,0 +1,10 @@
+{
+  "menuIcon": {
+    "name": "menuIcon",
+    "image": "/assets/icon/menuIcon.svg"
+  },
+  "footerLogo": {
+    "name": "footerLogo",
+    "image": "/assets/icon/footerLogo.svg"
+  }
+}

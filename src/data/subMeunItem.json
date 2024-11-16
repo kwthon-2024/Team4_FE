@@ -1,0 +1,22 @@
+[
+  {
+    "name": "보온/힐링",
+    "image": "/assets/subMenu/보안힐링.svg"
+  },
+  {
+    "name": "인테리어/데코 ",
+    "image": "/assets/subMenu/인테리어데코.svg"
+  },
+  {
+    "name": "선물/포장",
+    "image": "/assets/subMenu/선물포장.svg"
+  },
+  {
+    "name": "건강/라이프 ",
+    "image": "/assets/subMenu/건강라이프.svg"
+  },
+  {
+    "name": "파티용품",
+    "image": "/assets/subMenu/파티용품.svg"
+  }
+]
